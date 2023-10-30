@@ -4,6 +4,8 @@
 
 I'm a front-end developer based in Canada with a passion for building beautiful websites and web applications. My style is more minimalist, efficient, and focused on achieving high quality projects.
 
+<div height="40" />
+  
 Skills: 
 
 <div align="left">
@@ -22,7 +24,9 @@ Skills:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
+</div>
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
@@ -38,10 +42,14 @@ Skills:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
 </div>
 
+<div height="40" />
 
 - 👯 I’m looking to collaborate on all kinds of creative projects. 
 
+<div height="40" />
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damaluku)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<div height="40" />
+  
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='linkedin' height='40'>](https://www.linkedin.com/in/damian-aluku-59b06023a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://damian-aluku.vercel.app/)  
