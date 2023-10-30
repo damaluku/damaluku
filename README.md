@@ -8,8 +8,7 @@ Skills: REACT/ NEXT / TS / JS / HTML / CSS / JAVA / NPM / REDUX-TOOLKIT
 
 - 👯 I’m looking to collaborate on all kinds of creative projects. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damaluku)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/damaluku)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/damian-aluku-59b06023a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://damian-aluku.vercel.app/)  
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damaluku)](https://github.com/anuraghazra/github-readme-stats)
