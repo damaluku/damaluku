@@ -4,7 +4,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: REACT/ NEXT / TS / JS / HTML / CSS / JAVA / NPM / REDUX-TOOLKIT
+Skills: REACT/ NEXT / <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /> / JS / HTML / CSS / JAVA / NPM / REDUX-TOOLKIT
 
 - 👯 I’m looking to collaborate on all kinds of creative projects. 
 
