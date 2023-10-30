@@ -4,7 +4,7 @@
 
 I'm a front-end developer based in Canada with a passion for building beautiful websites and web applications. My style is more minimalist, efficient, and focused on achieving high quality projects.
 
-<div height="40" />
+<img height="40" />
   
 Skills: 
 
