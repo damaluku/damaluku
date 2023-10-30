@@ -45,11 +45,7 @@ Skills:
 <img height="40" />
 
 - 👯 I’m looking to collaborate on all kinds of creative projects. 
-
-<img height="40" />
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damaluku)](https://github.com/anuraghazra/github-readme-stats)
-
-<img height="40" />
   
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='linkedin' height='40'>](https://www.linkedin.com/in/damian-aluku-59b06023a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://damian-aluku.vercel.app/)  
