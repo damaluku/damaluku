@@ -11,79 +11,79 @@ Skills:
 <div align="left">
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-    <p>React</p>
+    <span>React</span>
   </span>
   <img width="12" />
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-    <p>NextJS</p>
+    <span>NextJS</span>
   </span>
   <img width="12" />
   <span>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
-    <p>NuxtJS</p>
+    <span>NuxtJS</span>
   </span>
   <img width="12" />
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-    <p>HTML5</p>
+    <span>HTML5</span>
   </span>
   <img width="12" />
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-    <p>CSS3</p>
+    <span>CSS3</span>
   </span>
   <img width="12" />
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-    <p>JavaScript</p>
+    <span>JavaScript</span>
   </span>
   <img width="12" />
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-    <p>TypeScript</p>
+    <span>TypeScript</span>
   </span>
   <img width="12" />
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-    <p>Java</p>
+    <span>Java</span>
   </span>
 </div>
 
 <div align="left">
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-    <p>NodeJS</p>
+    <span>NodeJS</span>
   </span>
   <img width="12" />
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-    <p>GIT</p>
+    <span>GIT</span>
   </span>
   <img width="12" />
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-    <p>NPM</p>
+    <span>NPM</span>
   </span>
   <img width="12" />
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
-    <p>GraphQL</p>
+    <span>GraphQL</span>
   </span>
   <img width="12" />
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-    <p>Redux</p>
+    <span>Redux</span>
   </span>
   <img width="12" />
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
-    <p>Jest</p>
+    <span>Jest</span>
   </span>
   <img width="12" />
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
-    <p>Material UI</p>
+    <span>Material UI</span>
   </span>
 </div>
 
